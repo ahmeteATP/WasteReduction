@@ -1,3 +1,5 @@
+# WasteReduction
+
 This is the Waste Reduction code repository.
 
 first creates a Model file from past historical information.
